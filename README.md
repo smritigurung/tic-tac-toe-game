@@ -1,4 +1,4 @@
-#Tic Tac Toe Game
+Tic Tac Toe Game
 
 It is a personal copy of my group project from my Object-oriented Programming class. 
 
